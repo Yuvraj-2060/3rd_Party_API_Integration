@@ -52,3 +52,12 @@ This Spring Boot application is designed to manage loan accounts. It integrates 
    git clone https://github.com/yourusername/loan-account-api.git
    cd loan-account-api
 
+2. Build the project:
+   ```bash
+   mvn clean install
+
+3. Run Application:
+   ```bash
+   mvn spring-boot:run
+
+
