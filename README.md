@@ -61,3 +61,9 @@ This Spring Boot application is designed to manage loan accounts. It integrates 
    mvn spring-boot:run
 
 
+## Postman API Testing
+
+   ![image](https://github.com/user-attachments/assets/561ecee1-233a-46cc-ac8f-0da16bb6f746)
+
+
+
